@@ -1,0 +1,17 @@
+KOTOBA QUEST — ÔN HẾT BÀI 29–31 KHÔNG GIỚI HẠN THỜI GIAN
+
+1. Mở index.html bằng Chrome / Edge để chơi ngay.
+2. Chọn Tất cả 210 thẻ, sau đó chọn Ôn hết · không bấm giờ.
+3. Học không giới hạn thời gian; mỗi câu một lần, không lặp trước khi hoàn thành.
+4. Thoát giữa chừng: trở về trang chủ, lần sau nhấn Tiếp tục lượt đang học.
+5. Có 4 chế độ: Trắc nghiệm toàn bộ 210 thẻ, ghép 27 cặp tự / tha, nghe toàn bộ từ có thể đọc, flashcard đầy đủ.
+6. Nhấn Ôn từ chưa nhớ để luyện lại các thẻ sai.
+7. Tiến độ và lượt học dở được lưu trên trình duyệt / thiết bị đang dùng (localStorage).
+8. Giọng đọc tiếng Nhật sử dụng bộ phát âm của trình duyệt và thiết bị, có thể khác nhau theo máy.
+
+ĐĂNG WEBSITE CLOUDFLARE PAGES
+- Vào dash.cloudflare.com -> Workers & Pages -> Create -> Pages -> Upload assets / Drag and drop.
+- Giải nén ZIP và tải thư mục có index.html (hoặc tải ZIP nếu giao diện cho phép).
+- Deploy, sau đó mở đường dẫn *.pages.dev để học.
+
+Không dùng Kanji trong phần tiếng Nhật. Chạy offline không cần máy chủ.

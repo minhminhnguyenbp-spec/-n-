@@ -1,0 +1,211 @@
+﻿id,lesson,front,kind,meaning,example,translation,origin,pair
+1,29,あきます,Tự động từ,mở ra (cửa),ドアが あきました。,Cửa đã mở.,Sách trong ảnh,あけます
+2,29,しまります,Tự động từ,đóng lại (cửa),ドアが しまっています。,Cửa đang đóng.,Sách trong ảnh,しめます
+1003,29,つきます（でんきが）,Tự động từ,"sáng, bật lên (đèn)",でんきが つきました。,Đèn đã bật.,Sách trong ảnh,つけます
+4,29,きえます,Tự động từ,tắt (đèn),でんきが きえました。,Đèn đã tắt.,Sách trong ảnh,けします
+7,29,こわれます,Tự động từ,bị hỏng,いすが こわれています。,Ghế đang bị hỏng.,Sách trong ảnh,こわします
+8,29,われます,Tự động từ,bị vỡ,コップが われました。,Cốc đã vỡ.,Sách trong ảnh,わります
+9,29,おれます,Tự động từ,bị gãy,えだが おれました。,Cành cây đã gãy.,Sách trong ảnh,おります（えだを）
+10,29,やぶれます,Tự động từ,bị rách,かみが やぶれました。,Giấy đã rách.,Sách trong ảnh,やぶります
+11,29,よごれます,Tự động từ,bị bẩn,ふくが よごれました。,Quần áo đã bị bẩn.,Sách trong ảnh,よごします
+1010,29,つきます（ポケットが）,Tự động từ,có gắn thêm (túi),ポケットが ついています。,Có gắn một chiếc túi.,Sách trong ảnh,つけます（ポケットを）
+12,29,はずれます,Tự động từ,"bong, bung, tuột ra (cúc áo)",ボタンが はずれました。,Cúc áo đã bung.,Sách trong ảnh,はずします
+13,29,とまります,Tự động từ,"dừng, đỗ (xe)",くるまが とまりました。,Xe đã dừng.,Sách trong ảnh,とめます
+16,29,まちがえます,Tha động từ,"nhầm, mắc lỗi",ばんごうを まちがえました。,Tôi đã nhầm số.,Sách trong ảnh,
+17,29,おとします,Tha động từ,đánh rơi,さいふを おとしました。,Tôi đã đánh rơi ví.,Sách trong ảnh,おちます
+1015,29,かかります（かぎが）,Tự động từ,được khóa,かぎが かかっています。,Khóa đang được cài.,Sách trong ảnh,かけます（かぎを）
+1016,29,ふきます,Tha động từ,"lau, chùi",テーブルを ふきます。,Tôi lau bàn.,Sách trong ảnh,
+1017,29,とりかえます,Tha động từ,"thay thế, đổi",でんちを とりかえます。,Tôi thay pin.,Sách trong ảnh,
+1018,29,かたづけます,Tha động từ,dọn dẹp,へやを かたづけます。,Tôi dọn phòng.,Sách trong ảnh,かたづきます
+18,29,おさら,Danh từ,đĩa,おさらが われました。,Cái đĩa đã vỡ.,Sách trong ảnh,
+19,29,おちゃわん,Danh từ,"bát, chén cơm",おちゃわんが われました。,Bát cơm đã vỡ.,Sách trong ảnh,
+20,29,コップ,Danh từ,cốc,コップが われました。,Chiếc cốc đã vỡ.,Sách trong ảnh,
+21,29,ガラス,Danh từ,"kính, thủy tinh",ガラスが われました。,Kính đã vỡ.,Sách trong ảnh,
+22,29,ふくろ,Danh từ,túi,ふくろが やぶれました。,Túi đã bị rách.,Sách trong ảnh,
+1024,29,しょるい,Danh từ,"giấy tờ, tài liệu",しょるいを みます。,Tôi xem tài liệu.,Sách trong ảnh,
+24,29,えだ,Danh từ,cành cây,えだが おれました。,Cành cây đã gãy.,Sách trong ảnh,
+25,29,えきいん,Danh từ,nhân viên nhà ga,えきいんに ききます。,Tôi hỏi nhân viên ga.,Sách trong ảnh,
+1027,29,こうばん,Danh từ,đồn cảnh sát nhỏ,こうばんは どこですか。,Đồn cảnh sát ở đâu?,Sách trong ảnh,
+1028,29,スピーチ,Danh từ,bài diễn văn,スピーチを します。,Tôi phát biểu diễn văn.,Sách trong ảnh,
+1029,29,へんじ,Danh từ,"câu trả lời, hồi âm",へんじを します。,Tôi trả lời.,Sách trong ảnh,
+1030,29,おさきに どうぞ,Cụm từ,Mời anh/chị cứ về trước,おさきに どうぞ。,Mời bạn cứ về trước.,Sách trong ảnh,
+1031,29,げんじものがたり,Danh từ,Truyện Genji (tác phẩm văn học),げんじものがたりを よみます。,Tôi đọc Truyện Genji.,Sách trong ảnh,
+1032,29,いまの でんしゃ,Cụm từ,chuyến tàu vừa chạy,いまの でんしゃに のれませんでした。,Tôi đã không kịp chuyến tàu vừa rồi.,Sách trong ảnh,
+28,29,わすれもの,Danh từ,đồ bỏ quên,わすれものが あります。,Có đồ để quên.,Sách trong ảnh,
+1034,29,このくらい,Cụm từ,"cỡ này, khoảng chừng này",このくらいです。,Khoảng chừng này.,Sách trong ảnh,
+1035,29,～がわ,Hậu tố,"phía, bên",ひだりがわに あります。,Nó ở bên trái.,Sách trong ảnh,
+26,29,ポケット,Danh từ,"túi áo, túi quần",ポケットに かぎが あります。,Có chìa khóa trong túi.,Sách trong ảnh,
+1037,29,～へん,Hậu tố,"quanh vùng, xung quanh",このへんです。,Ở quanh đây.,Sách trong ảnh,
+1038,29,おぼえていません,Cụm từ,tôi không nhớ,すみません、おぼえていません。,"Xin lỗi, tôi không nhớ.",Sách trong ảnh,
+27,29,あみだな,Danh từ,giá để hành lý trên tàu,あみだなに かばんが あります。,Có cặp trên giá hành lý.,Sách trong ảnh,
+33,29,たしか,Trạng từ,"nếu nhớ không nhầm, hình như",たしか 3じでした。,Hình như là 3 giờ.,Sách trong ảnh,
+1041,29,ああ、よかった,Cụm từ,"Ôi, tốt quá! (nhẹ nhõm)",ああ、よかった。,"Ôi, may quá.",Sách trong ảnh,
+1042,29,しんじゅく,Địa danh,Shinjuku (Tokyo),しんじゅくに いきます。,Tôi đi Shinjuku.,Sách trong ảnh,
+29,29,じしん,Danh từ,động đất,じしんが ありました。,Đã xảy ra động đất.,Sách trong ảnh,
+30,29,かべ,Danh từ,bức tường,かべが よごれています。,Tường đang bị bẩn.,Sách trong ảnh,
+31,29,はり,Danh từ,kim đồng hồ,とけいの はりが とまっています。,Kim đồng hồ đang dừng.,Sách trong ảnh,
+1046,29,さします,Tha động từ,"chỉ (giờ, kim đồng hồ)",とけいは 3じを さしています。,Đồng hồ chỉ 3 giờ.,Sách trong ảnh,
+1047,29,えきまえ,Danh từ,phía trước nhà ga,えきまえに こうばんが あります。,Có đồn cảnh sát trước ga.,Sách trong ảnh,
+15,29,たおれます,Tự động từ,"đổ, ngã",きが たおれました。,Cây đã đổ.,Sách trong ảnh,たおします
+1049,29,にし,Danh từ,phía tây,にしに やまが あります。,Có núi ở phía tây.,Sách trong ảnh,
+1050,29,～の ほう,Cụm từ,"phía, hướng",えきの ほうへ いきます。,Tôi đi về hướng nhà ga.,Sách trong ảnh,
+1051,29,もえます,Tự động từ,cháy,いえが もえています。,Ngôi nhà đang cháy.,Sách trong ảnh,もやします
+1052,29,レポーター,Danh từ,phóng viên,レポーターが はなしています。,Phóng viên đang nói.,Sách trong ảnh,
+1141,29,あけます,Tha động từ,mở cửa (từ đối ứng),ドアを あけます。,Tôi mở cửa,Bổ sung cặp tự/tha,あきます
+1142,29,しめます,Tha động từ,đóng cửa (từ đối ứng),ドアを しめます。,Tôi đóng cửa,Bổ sung cặp tự/tha,しまります
+1143,29,つけます,Tha động từ,bật đèn (từ đối ứng),でんきを つけます。,Tôi bật đèn,Bổ sung cặp tự/tha,つきます（でんきが）
+1144,29,けします,Tha động từ,tắt đèn (từ đối ứng),でんきを けします。,Tôi tắt đèn,Bổ sung cặp tự/tha,きえます
+1145,29,こわします,Tha động từ,hỏng đồ (từ đối ứng),いすを こわします。,Tôi làm hỏng ghế,Bổ sung cặp tự/tha,こわれます
+1146,29,わります,Tha động từ,vỡ cốc (từ đối ứng),コップを わります。,Tôi làm vỡ cốc,Bổ sung cặp tự/tha,われます
+1147,29,おります（えだを）,Tha động từ,gãy cành (từ đối ứng),えだを おります。,Tôi bẻ gãy cành,Bổ sung cặp tự/tha,おれます
+1148,29,やぶります,Tha động từ,rách giấy (từ đối ứng),かみを やぶります。,Tôi xé giấy,Bổ sung cặp tự/tha,やぶれます
+1149,29,よごします,Tha động từ,bẩn quần áo (từ đối ứng),ふくを よごします。,Tôi làm bẩn quần áo,Bổ sung cặp tự/tha,よごれます
+1150,29,つけます（ポケットを）,Tha động từ,gắn túi (từ đối ứng),ポケットを つけます。,Tôi gắn túi,Bổ sung cặp tự/tha,つきます（ポケットが）
+1151,29,はずします,Tha động từ,bung / tháo cúc (từ đối ứng),ボタンを はずします。,Tôi tháo cúc,Bổ sung cặp tự/tha,はずれます
+1152,29,とめます,Tha động từ,dừng xe (từ đối ứng),くるまを とめます。,Tôi cho xe dừng,Bổ sung cặp tự/tha,とまります
+1153,29,かけます（かぎを）,Tha động từ,khóa cửa (từ đối ứng),かぎを かけます。,Tôi khóa cửa,Bổ sung cặp tự/tha,かかります（かぎが）
+1154,29,おちます,Tự động từ,rơi đồ (từ đối ứng),かぎが おちます。,Chìa khóa rơi,Bổ sung cặp tự/tha,おとします
+1155,29,かたづきます,Tự động từ,được dọn / dọn dẹp (từ đối ứng),へやが かたづきます。,Phòng gọn lại,Bổ sung cặp tự/tha,かたづけます
+1156,29,たおします,Tha động từ,đổ cây (từ đối ứng),きを たおします。,Tôi làm đổ cây,Bổ sung cặp tự/tha,たおれます
+1157,29,もやします,Tha động từ,cháy / đốt (từ đối ứng),ごみを もやします。,Tôi đốt rác,Bổ sung cặp tự/tha,もえます
+34,29,Nが Vて います,Ngữ pháp,Diễn tả trạng thái của vật sau thay đổi,ドアが あいています。,Cửa đang mở.,Tổng hợp ngữ pháp,
+35,29,Vて しまいました,Ngữ pháp,Đã hoàn tất hoặc lỡ làm điều đáng tiếc,さいふを おとして しまいました。,Tôi lỡ làm rơi ví.,Tổng hợp ngữ pháp,
+36,29,Vて しまいます,Ngữ pháp,Làm xong hết (nhấn mạnh hoàn tất),しゅくだいを やって しまいます。,Tôi sẽ làm xong bài tập.,Tổng hợp ngữ pháp,
+38,30,はります,Tha động từ,dán,ポスターを はります。,Tôi dán áp phích.,Sách trong ảnh,
+39,30,かけます,Tha động từ,treo,えを かけます。,Tôi treo tranh.,Sách trong ảnh,かかります（えが）
+40,30,かざります,Tha động từ,"trang trí, trưng bày",はなを かざります。,Tôi trưng hoa.,Sách trong ảnh,
+41,30,ならべます,Tha động từ,sắp xếp thành hàng,いすを ならべます。,Tôi xếp ghế.,Sách trong ảnh,ならびます
+42,30,うえます,Tha động từ,trồng,きの なえを うえます。,Tôi trồng cây non.,Sách trong ảnh,うわります
+43,30,もどします,Tha động từ,"đưa về, để lại chỗ cũ",ほんを もどします。,Tôi trả sách về chỗ cũ.,Sách trong ảnh,もどります
+44,30,まとめます,Tha động từ,"thu dọn, gom lại",にもつを まとめます。,Tôi thu dọn hành lý.,Sách trong ảnh,まとまります
+46,30,しまいます,Tha động từ,"cất, cất đi",ふくを しまいます。,Tôi cất quần áo.,Sách trong ảnh,
+47,30,きめます,Tha động từ,quyết định,ひを きめます。,Tôi quyết định ngày.,Sách trong ảnh,きまります
+50,30,よしゅうします,Tha động từ,chuẩn bị bài trước,あしたの じゅぎょうを よしゅうします。,Tôi chuẩn bị bài ngày mai.,Sách trong ảnh,
+51,30,ふくしゅうします,Tha động từ,ôn tập,ぶんぽうを ふくしゅうします。,Tôi ôn ngữ pháp.,Sách trong ảnh,
+52,30,そのままに します,Cụm từ,để nguyên như thế,そのままに して おきます。,Tôi sẽ để nguyên như vậy.,Sách trong ảnh,
+58,30,じゅぎょう,Danh từ,"giờ học, tiết học",じゅぎょうが はじまります。,Giờ học bắt đầu.,Sách trong ảnh,
+59,30,こうぎ,Danh từ,bài giảng,こうぎを ききます。,Tôi nghe bài giảng.,Sách trong ảnh,
+60,30,ミーティング,Danh từ,cuộc họp,ミーティングが あります。,Có cuộc họp.,Sách trong ảnh,
+61,30,よてい,Danh từ,"kế hoạch, lịch dự kiến",よていが あります。,Tôi có kế hoạch.,Sách trong ảnh,
+62,30,おしらせ,Danh từ,thông báo,おしらせを よみます。,Tôi đọc thông báo.,Sách trong ảnh,
+1070,30,ガイドブック,Danh từ,sách hướng dẫn du lịch,ガイドブックを かいます。,Tôi mua sách hướng dẫn.,Sách trong ảnh,
+64,30,カレンダー,Danh từ,lịch,カレンダーを かけます。,Tôi treo lịch.,Sách trong ảnh,
+65,30,ポスター,Danh từ,"áp phích, poster",ポスターを はります。,Tôi dán poster.,Sách trong ảnh,
+79,30,よていひょう,Danh từ,bảng lịch trình,よていひょうを みます。,Tôi xem lịch trình.,Sách trong ảnh,
+66,30,ごみばこ,Danh từ,thùng rác,ごみばこは どこですか。,Thùng rác ở đâu?,Sách trong ảnh,
+67,30,にんぎょう,Danh từ,búp bê,にんぎょうを かざります。,Tôi trưng búp bê.,Sách trong ảnh,
+68,30,かびん,Danh từ,"lọ hoa, bình hoa",かびんに はなが あります。,Có hoa trong bình.,Sách trong ảnh,
+69,30,かがみ,Danh từ,gương,かがみを みます。,Tôi nhìn gương.,Sách trong ảnh,
+70,30,ひきだし,Danh từ,ngăn kéo,ひきだしに しまいます。,Tôi cất vào ngăn kéo.,Sách trong ảnh,
+71,30,げんかん,Danh từ,"lối vào nhà, tiền sảnh",げんかんに くつが あります。,Có giày ở cửa vào.,Sách trong ảnh,
+72,30,ろうか,Danh từ,hành lang,ろうかを あるきます。,Tôi đi trên hành lang.,Sách trong ảnh,
+1081,30,かべ,Danh từ,bức tường,かべに えを かけます。,Tôi treo tranh lên tường.,Sách trong ảnh,
+73,30,いけ,Danh từ,"ao, hồ",いけに さかなが います。,Có cá trong ao.,Sách trong ảnh,
+74,30,もとの ところ,Cụm từ,"chỗ ban đầu, chỗ cũ",もとの ところに もどします。,Tôi đặt lại chỗ cũ.,Sách trong ảnh,
+75,30,まわり,Danh từ,xung quanh,いえの まわりを あるきます。,Tôi đi quanh nhà.,Sách trong ảnh,
+76,30,まんなか,Danh từ,chính giữa,まんなかに あります。,Nó ở chính giữa.,Sách trong ảnh,
+77,30,すみ,Danh từ,góc,すみに おきます。,Tôi đặt ở góc.,Sách trong ảnh,
+78,30,まだ,Trạng từ,"vẫn, còn, chưa",まだ じゅぎょうを しています。,Vẫn đang học.,Sách trong ảnh,
+1088,30,リュック,Danh từ,ba lô,リュックを かいます。,Tôi mua ba lô.,Sách trong ảnh,
+1089,30,ひじょうぶくろ,Danh từ,túi khẩn cấp,ひじょうぶくろを よういします。,Tôi chuẩn bị túi khẩn cấp.,Sách trong ảnh,
+1090,30,ひじょうじ,Danh từ,lúc khẩn cấp,ひじょうじに つかいます。,Dùng khi khẩn cấp.,Sách trong ảnh,
+1091,30,せいかつします,Động từ khác,"sinh hoạt, sống",にほんで せいかつしています。,Tôi đang sống ở Nhật.,Sách trong ảnh,
+1092,30,かいちゅうでんとう,Danh từ,đèn pin,かいちゅうでんとうを もっています。,Tôi có đèn pin.,Sách trong ảnh,
+1093,30,～とか、～とか,Cụm từ,"như là ... và ..., chẳng hạn",みずとか、パンとかを かいます。,Tôi mua những thứ như nước và bánh mì.,Sách trong ảnh,
+1094,30,まるい,Tính từ い,tròn,まるい つきが みえます。,Nhìn thấy mặt trăng tròn.,Sách trong ảnh,
+1095,30,ある～,Cụm từ,một ... nào đó,ある ひの ことです。,Đó là chuyện của một ngày nọ.,Sách trong ảnh,
+1096,30,ゆめを みます,Cụm từ,nằm mơ,ゆめを みました。,Tôi đã nằm mơ.,Sách trong ảnh,
+1097,30,うれしい,Tính từ い,vui mừng,とても うれしいです。,Tôi rất vui.,Sách trong ảnh,
+1098,30,いや,Tính từ な,"ghét, không thích",いやな ゆめです。,Một giấc mơ không vui.,Sách trong ảnh,
+1099,30,すると,Liên từ,"khi đó, thế là",すると、おとが しました。,"Khi đó, có tiếng động.",Sách trong ảnh,
+1100,30,めが さめます,Tự động từ,"tỉnh giấc, thức dậy",めが さめました。,Tôi đã tỉnh giấc.,Sách trong ảnh,めを さまします
+1158,30,かかります（えが）,Tự động từ,tranh treo (từ đối ứng),えが かかっています。,Tranh đang treo,Bổ sung cặp tự/tha,かけます
+1159,30,ならびます,Tự động từ,xếp thành hàng (từ đối ứng),いすが ならびます。,Ghế được xếp hàng,Bổ sung cặp tự/tha,ならべます
+1160,30,うわります,Tự động từ,được trồng / trồng (dạng tự ít dùng) (từ đối ứng),きが うわっています。,Cây đã được trồng,Bổ sung cặp tự/tha,うえます
+1161,30,もどります,Tự động từ,trở lại / đưa về (từ đối ứng),ほんが もどります。,Sách quay về,Bổ sung cặp tự/tha,もどします
+1162,30,まとまります,Tự động từ,gọn lại / gom lại (từ đối ứng),にもつが まとまります。,Hành lý gọn lại,Bổ sung cặp tự/tha,まとめます
+1163,30,きまります,Tự động từ,được quyết định / quyết định (từ đối ứng),ひが きまります。,Ngày được chốt,Bổ sung cặp tự/tha,きめます
+1164,30,めを さまします,Tha động từ,tỉnh giấc / tự làm mình tỉnh (từ đối ứng),めを さまします。,Làm mình tỉnh táo,Bổ sung cặp tự/tha,めが さめます
+80,30,Nが Vて あります,Ngữ pháp,Trạng thái do ai đó có chủ ý tạo ra,まどが あけて あります。,Cửa sổ đã được mở sẵn.,Tổng hợp ngữ pháp,
+1172,30,Vて おきます,Ngữ pháp,Làm trước để chuẩn bị,チケットを かって おきます。,Tôi mua vé trước.,Tổng hợp ngữ pháp,
+1173,30,Vて おきます（そのまま）,Ngữ pháp,Giữ nguyên trạng thái,まどを あけて おきます。,Tôi để cửa sổ mở.,Tổng hợp ngữ pháp,
+83,30,まだ Vて います,Ngữ pháp,Vẫn còn làm / đang ở trạng thái,まだ あめが ふって います。,Trời vẫn đang mưa.,Tổng hợp ngữ pháp,
+86,31,つづけます,Tha động từ,tiếp tục,にほんごの べんきょうを つづけます。,Tôi tiếp tục học tiếng Nhật.,Sách trong ảnh,つづきます
+87,31,みつけます,Tha động từ,tìm thấy,かぎを みつけました。,Tôi tìm thấy chìa khóa.,Sách trong ảnh,みつかります
+1103,31,とります（やすみを）,Tha động từ,"xin nghỉ, lấy ngày nghỉ",やすみを とります。,Tôi xin nghỉ.,Sách trong ảnh,
+1104,31,うけます（しけんを）,Tha động từ,"dự thi, tham gia kỳ thi",しけんを うけます。,Tôi dự thi.,Sách trong ảnh,
+1105,31,もうしこみます,Tha động từ,đăng ký,りょこうを もうしこみます。,Tôi đăng ký chuyến du lịch.,Sách trong ảnh,
+92,31,きゅうけいします,Động từ khác,nghỉ giải lao,ちょっと きゅうけいしましょう。,Nghỉ một lát nhé.,Sách trong ảnh,
+96,31,れんきゅう,Danh từ,kỳ nghỉ liên tiếp,れんきゅうに りょこうします。,Tôi đi du lịch vào kỳ nghỉ dài.,Sách trong ảnh,
+97,31,さくぶん,Danh từ,bài tập làm văn,さくぶんを かきます。,Tôi viết bài văn.,Sách trong ảnh,
+1109,31,はっぴょう,Danh từ,"phát biểu, công bố",はっぴょうを します。,Tôi phát biểu.,Sách trong ảnh,
+98,31,てんらんかい,Danh từ,cuộc triển lãm,てんらんかいへ いきます。,Tôi đi triển lãm.,Sách trong ảnh,
+99,31,けっこんしき,Danh từ,lễ cưới,けっこんしきに いきます。,Tôi đi dự lễ cưới.,Sách trong ảnh,
+100,31,おそうしき,Danh từ,đám tang,おそうしきに いきます。,Tôi đi dự đám tang.,Sách trong ảnh,
+101,31,しき,Danh từ,buổi lễ,しきが はじまります。,Buổi lễ bắt đầu.,Sách trong ảnh,
+102,31,ほんしゃ,Danh từ,trụ sở chính,ほんしゃで はたらきます。,Tôi làm việc ở trụ sở chính.,Sách trong ảnh,
+103,31,してん,Danh từ,chi nhánh,してんに いきます。,Tôi đến chi nhánh.,Sách trong ảnh,
+104,31,きょうかい,Danh từ,nhà thờ,きょうかいへ いきます。,Tôi đi nhà thờ.,Sách trong ảnh,
+105,31,だいがくいん,Danh từ,trường cao học,だいがくいんで べんきょうします。,Tôi học cao học.,Sách trong ảnh,
+106,31,どうぶつえん,Danh từ,sở thú,どうぶつえんへ いきます。,Tôi đi sở thú.,Sách trong ảnh,
+107,31,おんせん,Danh từ,suối nước nóng,おんせんに はいります。,Tôi tắm suối nước nóng.,Sách trong ảnh,
+1120,31,かえり,Danh từ,"chiều về, lúc về",かえりに パンを かいます。,Tôi mua bánh mì lúc về.,Sách trong ảnh,
+1121,31,おこさん,Danh từ,con (của người khác; kính ngữ),おこさんは おいくつですか。,Con của anh/chị mấy tuổi?,Sách trong ảnh,
+1122,31,～ごう,Hậu tố,"số (tàu, hiệu...)",のぞみ 42ごうに のります。,Tôi lên tàu Nozomi số 42.,Sách trong ảnh,
+1123,31,～の ほう,Cụm từ,"phía, hướng",えきの ほうへ いきます。,Tôi đi về phía nhà ga.,Sách trong ảnh,
+110,31,ずっと,Trạng từ,"suốt, liên tục",ずっと ここに います。,Tôi ở đây suốt.,Sách trong ảnh,
+1125,31,バリ,Địa danh,Bali (Indonesia),バリへ いきます。,Tôi đi Bali.,Sách trong ảnh,
+1126,31,ピカソ,Tên riêng,Picasso (họa sĩ),ピカソの えを みます。,Tôi xem tranh Picasso.,Sách trong ảnh,
+1127,31,のぞみ,Tên riêng,Nozomi (tên tàu Shinkansen),のぞみに のります。,Tôi lên tàu Nozomi.,Sách trong ảnh,
+1128,31,しんこうべ,Địa danh,Shin-Kobe (ga ở Hyogo),しんこうべえきで おります。,Tôi xuống ở ga Shin-Kobe.,Sách trong ảnh,
+93,31,のこります,Tự động từ,"ở lại, còn lại",ひとり のこりました。,Còn lại một người.,Sách trong ảnh,のこします
+1130,31,にゅうがくしけん,Danh từ,"kỳ thi tuyển sinh, thi đầu vào",にゅうがくしけんを うけます。,Tôi thi đầu vào.,Sách trong ảnh,
+1131,31,つきに,Cụm từ,"mỗi tháng, trong một tháng",つきに 2かい いきます。,Tôi đi hai lần mỗi tháng.,Sách trong ảnh,
+112,31,むら,Danh từ,làng,ちいさい むらです。,Đó là một làng nhỏ.,Sách trong ảnh,
+90,31,そつぎょうします,Động từ khác,tốt nghiệp,こうこうを そつぎょうしました。,Tôi đã tốt nghiệp cấp ba.,Sách trong ảnh,
+1134,31,えいがかん,Danh từ,rạp chiếu phim,えいがかんに いきます。,Tôi đi rạp chiếu phim.,Sách trong ảnh,
+1135,31,いや,Tính từ な,"không thích, ghét",いなかの せいかつが いやでした。,Tôi từng không thích cuộc sống ở quê.,Sách trong ảnh,
+1136,31,そら,Danh từ,bầu trời,あおい そらです。,Bầu trời xanh.,Sách trong ảnh,
+95,31,とじます,Tha động từ,"nhắm, đóng (mắt, sách)",めを とじます。,Tôi nhắm mắt.,Sách trong ảnh,
+113,31,とかい,Danh từ,"đô thị, thành phố",とかいに すんでいます。,Tôi sống ở thành phố.,Sách trong ảnh,
+1139,31,こどもたち,Danh từ,"trẻ em, bọn trẻ",こどもたちが あそんでいます。,Bọn trẻ đang chơi.,Sách trong ảnh,
+115,31,じゆうに,Trạng từ,"tự do, thoải mái",じゆうに あそべます。,Có thể chơi tự do.,Sách trong ảnh,
+1165,31,つづきます,Tự động từ,tiếp diễn / tiếp tục (từ đối ứng),じゅぎょうが つづきます。,Giờ học tiếp diễn,Bổ sung cặp tự/tha,つづけます
+1166,31,みつかります,Tự động từ,được tìm thấy / tìm thấy (từ đối ứng),かぎが みつかります。,Chìa khóa được tìm thấy,Bổ sung cặp tự/tha,みつけます
+1167,31,のこします,Tha động từ,còn lại / để lại (từ đối ứng),ごはんを のこします。,Tôi để thừa cơm,Bổ sung cặp tự/tha,のこります
+1175,31,いこうけい（グループ1）,Ngữ pháp,Nhóm 1: hàng い → hàng お + う,いきます → いこう。,Đi → đi thôi.,Tổng hợp ngữ pháp,
+1176,31,いこうけい（グループ2）,Ngữ pháp,"Nhóm 2: bỏ ます, thêm よう",たべます → たべよう。,Ăn → ăn thôi.,Tổng hợp ngữ pháp,
+1177,31,いこうけい（グループ3）,Ngữ pháp,Nhóm 3: します → しよう; きます → こよう,します → しよう。,Làm → làm thôi.,Tổng hợp ngữ pháp,
+121,31,Vようと おもっています,Ngữ pháp,Đang có ý định làm,にほんへ いこうと おもっています。,Tôi đang định đi Nhật.,Tổng hợp ngữ pháp,
+122,31,Vる つもりです,Ngữ pháp,Dự định sẽ làm,しけんを うける つもりです。,Tôi định dự thi.,Tổng hợp ngữ pháp,
+123,31,Vない つもりです,Ngữ pháp,Dự định không làm,きょうは いかない つもりです。,Hôm nay tôi định không đi.,Tổng hợp ngữ pháp,
+124,31,Vる よていです,Ngữ pháp,"Có lịch trình, kế hoạch dự kiến",らいしゅう いく よていです。,Dự kiến tuần sau sẽ đi.,Tổng hợp ngữ pháp,
+125,31,Nの よていです,Ngữ pháp,Dự kiến là N,しけんは らいげつの よていです。,Kỳ thi dự kiến tháng sau.,Tổng hợp ngữ pháp,
+126,31,まだ Vて いません,Ngữ pháp,Vẫn chưa làm,まだ もうしこんで いません。,Tôi vẫn chưa đăng ký.,Tổng hợp ngữ pháp,
+128,29,あきます ↔ あけます,Cặp tự / tha,mở cửa · Tự (が) ↔ Tha (を),ドアが あきます。  ドアを あけます。,Cửa mở / Tôi mở cửa,Bổ sung đối chiếu,あきます|あけます
+129,29,しまります ↔ しめます,Cặp tự / tha,đóng cửa · Tự (が) ↔ Tha (を),ドアが しまります。  ドアを しめます。,Cửa đóng / Tôi đóng cửa,Bổ sung đối chiếu,しまります|しめます
+3003,29,つきます（でんきが） ↔ つけます,Cặp tự / tha,bật đèn · Tự (が) ↔ Tha (を),でんきが つきます。  でんきを つけます。,Đèn sáng / Tôi bật đèn,Bổ sung đối chiếu,つきます（でんきが）|つけます
+131,29,きえます ↔ けします,Cặp tự / tha,tắt đèn · Tự (が) ↔ Tha (を),でんきが きえます。  でんきを けします。,Đèn tắt / Tôi tắt đèn,Bổ sung đối chiếu,きえます|けします
+132,29,こわれます ↔ こわします,Cặp tự / tha,hỏng đồ · Tự (が) ↔ Tha (を),いすが こわれます。  いすを こわします。,Ghế hỏng / Tôi làm hỏng ghế,Bổ sung đối chiếu,こわれます|こわします
+133,29,われます ↔ わります,Cặp tự / tha,vỡ cốc · Tự (が) ↔ Tha (を),コップが われます。  コップを わります。,Cốc vỡ / Tôi làm vỡ cốc,Bổ sung đối chiếu,われます|わります
+3007,29,おれます ↔ おります（えだを）,Cặp tự / tha,gãy cành · Tự (が) ↔ Tha (を),えだが おれます。  えだを おります。,Cành gãy / Tôi bẻ gãy cành,Bổ sung đối chiếu,おれます|おります（えだを）
+135,29,やぶれます ↔ やぶります,Cặp tự / tha,rách giấy · Tự (が) ↔ Tha (を),かみが やぶれます。  かみを やぶります。,Giấy rách / Tôi xé giấy,Bổ sung đối chiếu,やぶれます|やぶります
+136,29,よごれます ↔ よごします,Cặp tự / tha,bẩn quần áo · Tự (が) ↔ Tha (を),ふくが よごれます。  ふくを よごします。,Quần áo bẩn / Tôi làm bẩn quần áo,Bổ sung đối chiếu,よごれます|よごします
+3010,29,つきます（ポケットが） ↔ つけます（ポケットを）,Cặp tự / tha,gắn túi · Tự (が) ↔ Tha (を),ポケットが つきます。  ポケットを つけます。,Có túi được gắn / Tôi gắn túi,Bổ sung đối chiếu,つきます（ポケットが）|つけます（ポケットを）
+137,29,はずれます ↔ はずします,Cặp tự / tha,bung / tháo cúc · Tự (が) ↔ Tha (を),ボタンが はずれます。  ボタンを はずします。,Cúc bung / Tôi tháo cúc,Bổ sung đối chiếu,はずれます|はずします
+138,29,とまります ↔ とめます,Cặp tự / tha,dừng xe · Tự (が) ↔ Tha (を),くるまが とまります。  くるまを とめます。,Xe dừng / Tôi cho xe dừng,Bổ sung đối chiếu,とまります|とめます
+3013,29,かかります（かぎが） ↔ かけます（かぎを）,Cặp tự / tha,khóa cửa · Tự (が) ↔ Tha (を),かぎが かかります。  かぎを かけます。,Khóa được cài / Tôi khóa cửa,Bổ sung đối chiếu,かかります（かぎが）|かけます（かぎを）
+139,29,おちます ↔ おとします,Cặp tự / tha,rơi đồ · Tự (が) ↔ Tha (を),かぎが おちます。  かぎを おとします。,Chìa khóa rơi / Tôi đánh rơi chìa khóa,Bổ sung đối chiếu,おちます|おとします
+3015,29,かたづきます ↔ かたづけます,Cặp tự / tha,được dọn / dọn dẹp · Tự (が) ↔ Tha (を),へやが かたづきます。  へやを かたづけます。,Phòng gọn lại / Tôi dọn phòng,Bổ sung đối chiếu,かたづきます|かたづけます
+3016,29,たおれます ↔ たおします,Cặp tự / tha,đổ cây · Tự (が) ↔ Tha (を),きが たおれます。  きを たおします。,Cây đổ / Tôi làm đổ cây,Bổ sung đối chiếu,たおれます|たおします
+3017,29,もえます ↔ もやします,Cặp tự / tha,cháy / đốt · Tự (が) ↔ Tha (を),ごみが もえます。  ごみを もやします。,Rác cháy / Tôi đốt rác,Bổ sung đối chiếu,もえます|もやします
+3018,30,かかります（えが） ↔ かけます,Cặp tự / tha,tranh treo · Tự (が) ↔ Tha (を),えが かかっています。  えを かけます。,Tranh đang treo / Tôi treo tranh,Bổ sung đối chiếu,かかります（えが）|かけます
+3019,30,ならびます ↔ ならべます,Cặp tự / tha,xếp thành hàng · Tự (が) ↔ Tha (を),いすが ならびます。  いすを ならべます。,Ghế được xếp hàng / Tôi xếp ghế,Bổ sung đối chiếu,ならびます|ならべます
+3020,30,うわります ↔ うえます,Cặp tự / tha,được trồng / trồng (dạng tự ít dùng) · Tự (が) ↔ Tha (を),きが うわっています。  きを うえます。,Cây đã được trồng / Tôi trồng cây,Bổ sung đối chiếu,うわります|うえます
+3021,30,もどります ↔ もどします,Cặp tự / tha,trở lại / đưa về · Tự (が) ↔ Tha (を),ほんが もどります。  ほんを もどします。,Sách quay về / Tôi trả sách về chỗ cũ,Bổ sung đối chiếu,もどります|もどします
+3022,30,まとまります ↔ まとめます,Cặp tự / tha,gọn lại / gom lại · Tự (が) ↔ Tha (を),にもつが まとまります。  にもつを まとめます。,Hành lý gọn lại / Tôi gom hành lý,Bổ sung đối chiếu,まとまります|まとめます
+141,30,きまります ↔ きめます,Cặp tự / tha,được quyết định / quyết định · Tự (が) ↔ Tha (を),ひが きまります。  ひを きめます。,Ngày được chốt / Tôi chốt ngày,Bổ sung đối chiếu,きまります|きめます
+3024,30,めが さめます ↔ めを さまします,Cặp tự / tha,tỉnh giấc / tự làm mình tỉnh · Tự (が) ↔ Tha (を),めが さめます。  めを さまします。,Tỉnh giấc / Làm mình tỉnh táo,Bổ sung đối chiếu,めが さめます|めを さまします
+3025,31,つづきます ↔ つづけます,Cặp tự / tha,tiếp diễn / tiếp tục · Tự (が) ↔ Tha (を),じゅぎょうが つづきます。  じゅぎょうを つづけます。,Giờ học tiếp diễn / Tôi tiếp tục bài học,Bổ sung đối chiếu,つづきます|つづけます
+3026,31,みつかります ↔ みつけます,Cặp tự / tha,được tìm thấy / tìm thấy · Tự (が) ↔ Tha (を),かぎが みつかります。  かぎを みつけます。,Chìa khóa được tìm thấy / Tôi tìm thấy chìa,Bổ sung đối chiếu,みつかります|みつけます
+3027,31,のこります ↔ のこします,Cặp tự / tha,còn lại / để lại · Tự (が) ↔ Tha (を),ごはんが のこります。  ごはんを のこします。,Cơm còn lại / Tôi để thừa cơm,Bổ sung đối chiếu,のこります|のこします
